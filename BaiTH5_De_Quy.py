@@ -10,3 +10,4 @@ if n < 0:
     print("n phải là số nguyên dương")
 else:
     print("Số hạng Fibonacci thứ", n, "là:", fibonacci(n))
+    

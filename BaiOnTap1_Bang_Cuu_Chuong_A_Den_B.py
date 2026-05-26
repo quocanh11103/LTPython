@@ -12,7 +12,7 @@ def nhap_va_in_bang_cuu_chuong():
             for n in range(a, b + 1):
                 in_bang_cuu_chuong(n)
         elif b < a:
-            for n in range(a, b - 1, -1):
+            for n in range(a, b - 1, -1): 
                 in_bang_cuu_chuong(n)
         else:
             in_bang_cuu_chuong(a)
